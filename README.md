@@ -58,6 +58,8 @@ The system intelligently routes user queries through specialized tools to provid
   Your browser does not support the video tag.
 </video>
 
+https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/english_conversation.mp4
+
 **Features Demonstrated:**
 - General anxiety/depression support
 - Therapist search functionality
@@ -68,6 +70,8 @@ The system intelligently routes user queries through specialized tools to provid
   <source src="https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/arabic_conversation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/arabic_conversation.mp4
 
 **Features Demonstrated:**
 - Multilingual support (Arabic)
