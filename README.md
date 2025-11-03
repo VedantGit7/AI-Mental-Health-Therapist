@@ -54,11 +54,11 @@ The system intelligently routes user queries through specialized tools to provid
 
 ### 🎬 English Demo
 <video width="600" controls>
-  <source src="https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/english_conversation.mp4" type="video/mp4">
+  <source src="https://github.com/VedantGit7/AI-Mental-Health-Therapist/tree/main/videos/english_conversation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/english_conversation.mp4
+https://github.com/VedantGit7/AI-Mental-Health-Therapist/tree/main/videos/english_conversation.mp4
 
 **Features Demonstrated:**
 - General anxiety/depression support
@@ -67,11 +67,11 @@ https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/
 
 ### 🎬 Arabic Demo
 <video width="600" controls>
-  <source src="https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/arabic_conversation.mp4" type="video/mp4">
+  <source src="https://github.com/VedantGit7/AI-Mental-Health-Therapist/tree/main/videos/arabic_conversation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/arabic_conversation.mp4
+https://github.com/VedantGit7/AI-Mental-Health-Therapist/tree/main/videos/arabic_conversation.mp4
 
 **Features Demonstrated:**
 - Multilingual support (Arabic)
@@ -95,7 +95,7 @@ https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist/tree/main/videos/
 ### Installation
 
 1. **Clone the Repository**
-git clone https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist.git
+git clone https://github.com/VedantGit7/AI-Mental-Health-Therapist.git
 cd AI-Mental-Health-Therapist
 
 2. **Create Virtual Environment**
@@ -250,7 +250,7 @@ safespace-ai-agent/
 ## Installation & Development
 
 ### For Ubuntu/Linux/Mac:
-git clone https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist.git
+git clone https://github.com/VedantGit7/AI-Mental-Health-Therapist.git
 cd AI-Mental-Health-Therapist
 uv venv
 source .venv/bin/activate
@@ -259,7 +259,7 @@ ollama pull alibayram/medgemma:4b
 uv run backend/ai_agent.py
 
 ### For Windows:
-git clone https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist.git
+git clone https://github.com/VedantGit7/AI-Mental-Health-Therapist.git
 cd AI-Mental-Health-Therapist
 uv venv
 .venv\Scripts\activate
@@ -450,7 +450,7 @@ If you use AI-Mental-Health-Therapist in your research or projects, please cite:
 author = {Vedant Wedhane},
 title = {AI-Mental-Health-Therapist: AI-Powered Mental Health Support System},
 year = {2025},
-url = {https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist.git}
+url = {https://github.com/VedantGit7/AI-Mental-Health-Therapist.git}
 }
 
 ### Key References
@@ -466,8 +466,8 @@ url = {https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist.git}
 
 For questions, issues, or suggestions:
 - 📧 Email: vedantwedhane@gmail.com
-- 🐙 GitHub Issues: [Open an Issue](https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist.git/issues)
-- 💬 Discussions: [Start a Discussion](https://github.com/VedantWedhaneGit/AI-Mental-Health-Therapist.git/discussions)
+- 🐙 GitHub Issues: [Open an Issue](https://github.com/VedantGit7/AI-Mental-Health-Therapist.git/issues)
+- 💬 Discussions: [Start a Discussion](https://github.com/VedantGit7/AI-Mental-Health-Therapist.git/discussions)
 
 ### Emergency Resources
 If you or someone you know is in crisis:
